@@ -1,5 +1,7 @@
 # tr_logic_test
 
+## [View on GitHub Pages](https://ligrol.github.io/tr-logic-vue-test/)
+
 ## Project setup
 ```
 npm install
