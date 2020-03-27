@@ -79,7 +79,6 @@ export default {
     position: relative
     display: flex
     justify-content: space-between
-    padding: 20px 20px 0 20px
     text-align: center
     &::before
         content: ''
